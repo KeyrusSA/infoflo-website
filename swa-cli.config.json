@@ -1,0 +1,15 @@
+{
+  "$schema": "https://aka.ms/azure/static-web-apps-cli/schema",
+  "configurations": {
+    "website": {
+      "appLocation": ".",
+      "outputLocation": ".next",
+      "appBuildCommand": "npm run build",
+      "run": "npm run dev",
+      "appDevserverUrl": "http://localhost:3000",
+      "SWA_CLI_DEPLOYMENT_TOKEN": "e9c3fcf7b7c27f3fd7d4dfd0d633fdaf94a8e5016a6eb7af05e8b9eb25fdd56305-26a3f97e-b99d-41e3-8ec7-890ce127721100329070e2693303",
+      "appName": "swa-infoflo-prod-zan",
+      "resourceGroup": "rg-website-za"
+    }
+  }
+}
